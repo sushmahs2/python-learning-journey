@@ -31,7 +31,6 @@ This repository documents my progress as I learn Python programming from the fun
 python-learning-journey/
 │
 ├── README.md
-├── operation.py
 │
 └── day-01/
     ├── README.md
